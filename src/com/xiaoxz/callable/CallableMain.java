@@ -1,4 +1,4 @@
-package com.xiaoxz.bio.com.xiaoxz.callable;
+package com.xiaoxz.callable;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
